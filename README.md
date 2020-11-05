@@ -39,7 +39,7 @@ https://kara-krzystan.github.io/weather-dashboard
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
+* Materialize
 * OpenWeather
 
 ### Made with ❤️ & ☀️ by Kara Krzystan
