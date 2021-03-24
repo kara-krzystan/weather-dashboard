@@ -3,30 +3,44 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous"/>
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>    
     <link rel="stylesheet" href="./assets/css/style.css" />
     <title>Weather Dashboard</title>
   </head>
 
   <body>
-      <header>
-
+    <div class="container">
+      <header class="navbar">
+        <h1>Weather Dashboard</h1>
       </header>
-
-
-
-
-
-
-
+    
+    
+      <div class="row">
+        
+        <div class="col s3 teal"><p>Side Nav Panel</p>
+          <div class="row">
+            <form class="col s12">
+              <div class="row">
+                <div class="input-field col s12">
+                  <input placeholder="Enter City or ZIP" id="first_name" type="text" class="validate">
+                  <label for="first_name">Location Search</label>
+                </div>
+              </div>
+            </form>
+            <a class="waves-effect waves-light btn-small">Go</a>
+          </div>
+        </div>
+      
+        <div class="col s9 grey"><p>Main Weather Content</p>
       
       
+        </div>
       
       
-      
-      
+      </div>
+    </div>
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
       <script src="./assets/js/script.js"></script>
   </body>
 </html>
