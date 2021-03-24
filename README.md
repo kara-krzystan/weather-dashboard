@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Server-Side APIs Challenge: Weather Dashboard
 
 ## Description
 
@@ -8,13 +8,13 @@ The app runs in the browser and features dynamically updated HTML and CSS.
 
 This weather dashboard app resembles the mock-up functionality provided by the client and includes all features as requested in the user story.
 
-### User Story
+## User Story
 
 AS A traveler  
 I WANT to see the weather outlook for multiple cities  
 SO THAT I can plan a trip accordingly  
 
-### Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN a weather dashboard with form inputs  
 WHEN I search for a city  
@@ -28,18 +28,20 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history  
 THEN I am again presented with current and future conditions for that city  
 
-### Website Link
+## Website Link
 
 https://kara-krzystan.github.io/weather-dashboard
 
-### Screenshot
+## Screenshot
 
-### Built With
+## Built With
 
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
+* Materialize
 * OpenWeather
 
-### Made with ❤️ & ☀️ by Kara Krzystan
+## Contact
+[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
+
