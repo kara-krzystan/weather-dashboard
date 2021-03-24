@@ -2,9 +2,7 @@
 
 ## Description
 
-For this challenge, I was tasked with creating a weather dashboard that allows a user to look up the weather forecast for multiple cities.  
-Using the OpenWeather API, the dashboard features current weather conditions, as well as the 5-day forecast for the selected location.  
-The app runs in the browser and features dynamically updated HTML and CSS.
+For this challenge, I was tasked with creating a weather dashboard that allows a user to look up the weather forecast for multiple cities. Using the OpenWeather API, the dashboard features current weather conditions, as well as the 5-day forecast for the selected location. The app runs in the browser and features dynamically updated HTML and CSS.
 
 This weather dashboard app resembles the mock-up functionality provided by the client and includes all features as requested in the user story.
 
@@ -34,13 +32,20 @@ https://kara-krzystan.github.io/weather-dashboard
 
 ## Screenshot
 
+![screenshot](https://github.com/kara-krzystan/weather-dashboard/blob/master/assets/images/screenshot.png)
+
 ## Built With
 
 * HTML
 * CSS
 * JavaScript
-* Materialize
-* OpenWeather
+* Bootstrap
+* Font Awesome
+* OpenWeather API
+
+## Credits
+
+Helpful tutorials provided by YouTube geniuses, incl. Traversy Media and CodeExplained
 
 ## Contact
 [Kara Krzystan on GitHub](http://github.com/kara-krzystan)
