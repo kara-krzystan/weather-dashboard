@@ -1,12 +1,25 @@
-.navbar {
-    text-align: center;
+*{
+    box-sizing: border-box;
 }
 
-.row {
-    text-align: center;
+body {
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif sans-serif;
 }
 
-.btn-small {
-    background-color: blueviolet;
+h3 {
+    font-weight: bold;
+}
 
+.forecast {
+    font-size: 0.8em;
+}
+
+span {
+    font-size: 1em;
+}
+
+li:hover {
+    background-color: rgb(83, 84, 85);
+    text-decoration: underline;
 }
