@@ -42,10 +42,7 @@ https://kara-krzystan.github.io/weather-dashboard
 * Bootstrap
 * Font Awesome
 * OpenWeather API
-
-## Credits
-
-Helpful tutorials provided by YouTube geniuses, incl. Traversy Media and CodeExplained
+* Helpful tutorials provided by Traversy Media and CodeExplained
 
 ## Contact
 [Kara Krzystan on GitHub](http://github.com/kara-krzystan)
